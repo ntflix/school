@@ -37,9 +37,9 @@ class _HomeworkDialogState extends State<HomeworkDialog> {
   Widget build(BuildContext context) {
 
     return Dialog(
-      shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.circular(30),
-      ),
+      // shape: RoundedRectangleBorder(
+      //   borderRadius: BorderRadius.circular(30),
+      // ),
       elevation: 0.0,
       backgroundColor: Colors.transparent,
       child: Stack(
